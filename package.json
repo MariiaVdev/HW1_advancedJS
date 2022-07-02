@@ -1,0 +1,11 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "Homework_Advanced_JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mariia Voloshchuk",
+  "license": "ISC"
+}
